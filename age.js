@@ -1,8 +1,8 @@
 let age  = 19;
-let ticketFair;
+let TicketFair;
 if (age >= 18){
-    ticketFair = 500;
+    TicketFair = 500;
 }else{
     ticketFair = 300;
 }
-console.log(ticketFair = +  ticketFair);
+console.log(TicketFair = +  TicketFair);
