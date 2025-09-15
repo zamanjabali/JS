@@ -13,3 +13,5 @@ Conditional statements (if / else)
 
 Loops (for, while)
 
+palindrom( Reverse Statement)
+
