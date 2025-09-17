@@ -1,4 +1,4 @@
-let n = 069;
+let n = 169;
 let reversed = 0;
 let remainder = 0;
 
