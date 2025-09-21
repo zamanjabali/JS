@@ -9,7 +9,7 @@ Setting up environment; embedding JS in HTML
 
 Variables, data types, operators
 
-Conditional statements (if / else)
+Conditional statements (if / else / switch Case)
 
 Loops (for, while)
 
