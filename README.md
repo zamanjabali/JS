@@ -15,3 +15,5 @@ Loops (for, while)
 
 palindrom( Reverse Statement)
 
+ternary and functions
+
