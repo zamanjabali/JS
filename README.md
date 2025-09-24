@@ -21,6 +21,8 @@ ternary and functions
 🔢 Arrays
 
 An array is a collection of elements stored in a single variable.
+
 It can hold multiple values of any data type (numbers, strings, objects, etc.).
+
 Arrays are zero-indexed, meaning the first element is at index 0.
 
